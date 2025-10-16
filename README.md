@@ -23,6 +23,6 @@ The goal is to simulate the basic structure of a blog, with posts, a simple layo
 ---
 
 ## 🌐 Live demo
-[Click here!](https://bellzituh.github.io/SimpleBlogPage-BSB/)
+- [**Click here**](https://bellzituh.github.io/SimpleBlogPage-BSB/) to see the project in action!
 
 ---
