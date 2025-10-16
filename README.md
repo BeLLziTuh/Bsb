@@ -21,3 +21,8 @@ The goal is to simulate the basic structure of a blog, with posts, a simple layo
 - Dynamic addition of posts via JavaScript
 
 ---
+
+## 🌐 Live demo
+(Click here!)[https://bellzituh.github.io/SimpleBlogPage-BSB/]
+
+---
